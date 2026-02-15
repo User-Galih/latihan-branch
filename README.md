@@ -1,2 +1,2 @@
 # latihan-branch dev
-github itu asik lho
+belajar github dicoding seru lho
